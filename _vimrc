@@ -65,7 +65,7 @@ set ruler
 set incsearch "在输入要搜索的文字时，vim会实时匹配
 set backspace=indent,eol,start whichwrap+=<,>,[,] "允许退格键的使用
 set laststatus=2
-set relativenumber
+" set relativenumber
 
 let mapleader = ","
 " nnoremap / /\v
