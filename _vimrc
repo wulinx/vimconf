@@ -127,3 +127,4 @@ set tags=./tags
 set tags+=tags;/
 
 let NERDShutUp=1
+let g:cssColorVimDoNotMessMyUpdatetime = 1
